@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditCardApi", "CreditCardApi\CreditCardApi.csproj", "{00B31C77-949F-4B25-8A48-06FBBBAF34CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00B31C77-949F-4B25-8A48-06FBBBAF34CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00B31C77-949F-4B25-8A48-06FBBBAF34CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00B31C77-949F-4B25-8A48-06FBBBAF34CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00B31C77-949F-4B25-8A48-06FBBBAF34CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {152063A1-3354-47C6-B35E-B1E7B8CE47EB}
+	EndGlobalSection
+EndGlobal
